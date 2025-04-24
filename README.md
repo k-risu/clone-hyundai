@@ -1,7 +1,7 @@
 # 현대그룹 클론 퍼블리싱 스터디 프로젝트
 
 - 원사이트 https://www.hyundaigroup.com/
-- 배포주소
+- 배포주소 https://clone-hyundai-eight.vercel.app/
 
 ## 메인사이트
 
